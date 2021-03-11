@@ -2,7 +2,13 @@ BME-2019-2020-Senior-Design
 =============================
 Repository containing all files for Team 28 in the 2019-2020 UIowa BME senior design cohort.
 
-<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Handle/Explode2.PNG" width="600" height="400"></img> <img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Electronics/MainControlBoardCircuit.png?raw=true" width="246" height="400"></img>
+
+<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Handle/Explode2.PNG" width="600" height="400"></img>
+
+<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Electronics/MainControlBoardCircuit.png?raw=true" width="246" height="400"></img>
+
+<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Electronics/MainControlBoardRendered.png?raw=true" width="775" height="400"></img>
+
 
 
 # Usage
@@ -13,6 +19,7 @@ Any user has the ability to download code and modify this code base, however, de
 NOTE: This project was completed for academic credit at the University of Iowa. It falls upon the individual user to adhere and comply with
 said user's academic honesty policy. While we make this code readily available to the general public, we in no way condone academic dishonesty.
 ```
+
 
 
 # Installation
@@ -42,6 +49,5 @@ These are available as individual zip files which must be extracted independentl
 ===
 
 # TODO:
-- Add pictures to README.md
 - Install script if enough interest exists in project.
 - Git CADLAB.io working with EAGLE source code
