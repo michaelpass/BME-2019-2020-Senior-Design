@@ -53,6 +53,7 @@ These are available as individual zip files which must be extracted independentl
 
 # About Us:
 <img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Pictures/7BD33670-4D68-48A1-A603-92481F82065B_1_105_c.jpeg?raw=true" width="600" height="450"></img>
+
 (From left to right):
 - Michael Pass 
 - Zane Johnson
