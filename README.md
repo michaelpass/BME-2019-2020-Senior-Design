@@ -47,5 +47,17 @@ These are available as individual zip files which must be extracted independentl
 ===
 
 # TODO:
-- Install script if enough interest exists in project.
-- Git CADLAB.io working with EAGLE source code
+- Finish About Us section
+- Install script (if enough interest exists in project.)
+- Get CADLAB.io working with EAGLE source code so that board files can be viewed.
+
+# About Us:
+<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Pictures/7BD33670-4D68-48A1-A603-92481F82065B_1_105_c.jpeg?raw=true" width="600" height="450"></img>
+(From left to right):
+- Michael Pass 
+- Zane Johnson
+- Matthew Situmeang
+- Erin McFadden
+- Tanner Karbonik
+
+
