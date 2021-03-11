@@ -55,10 +55,10 @@ These are available as individual zip files which must be extracted independentl
 <img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Pictures/7BD33670-4D68-48A1-A603-92481F82065B_1_105_c.jpeg?raw=true" width="600" height="450"></img>
 
 (From left to right):
-- Michael Pass 
-- Zane Johnson
-- Matthew Situmeang
-- Erin McFadden
-- Tanner Karbonik
+- [Michael Pass](https://github.com/michaelpass) 
+- [Zane Johnson](https://github.com/zanejohnson)
+- [Matthew Situmeang](https://github.com/MatthewSitu)
+- [Erin McFadden](https://github.com/erinmcfadden)
+- [Tanner Karbonik](https://github.com/tkarb0)
 
 
