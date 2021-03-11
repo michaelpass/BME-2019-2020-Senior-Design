@@ -38,5 +38,6 @@ These are available as individual zip files which must be extracted independentl
 
 
 # TODO:
+- Add pictures to README.md
 - Install script if enough interest exists in project.
 - Git CADLAB.io working with EAGLE source code
