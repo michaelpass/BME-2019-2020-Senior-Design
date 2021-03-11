@@ -2,7 +2,7 @@ BME-2019-2020-Senior-Design
 =============================
 Repository containing all files for Team 28 in the 2019-2020 UIowa BME senior design cohort.
 
-<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Handle/Explode2.PNG" width="600" height="400"></img> <img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Electronics/MainControlBoardCircluit.png" width="246" height="400"></img>
+<img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Handle/Explode2.PNG" width="600" height="400"></img> <img src="https://github.com/michaelpass/BME-2019-2020-Senior-Design/blob/master/Final%20Design%20Images/Electronics/MainControlBoardCircuit.png?raw=true" width="246" height="400"></img>
 
 
 # Usage
